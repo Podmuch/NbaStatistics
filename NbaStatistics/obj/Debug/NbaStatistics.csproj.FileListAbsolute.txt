@@ -1,0 +1,13 @@
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\bin\Debug\NbaStatistics.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\bin\Debug\NbaStatistics.exe
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\bin\Debug\NbaStatistics.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\MainWindow.baml
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\MainWindow.g.cs
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\App.g.cs
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics_MarkupCompile.cache
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.g.resources
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.Properties.Resources.resources
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.csproj.GenerateResource.Cache
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.exe
+c:\users\dominik\documents\visual studio 2013\Projects\NbaStatistics\NbaStatistics\obj\Debug\NbaStatistics.pdb
